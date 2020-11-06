@@ -8,8 +8,8 @@ var createPolitician = function(name, partyColor){
     return politician;      
 };
  
-var michelle = createPolitician("Biden",[76, 155, 181]);
-var kamala = createPolitician("Trump", [245, 141, 136]);
+var michelle = createPolitician("Biden",[16, 27, 239]);
+var kamala = createPolitician("Trump", [242, 48, 10]);
  
 
 michelle.electionResults = [0, 0, 11, 0, 55, 9, 7, 3, 3, 0, 16, 4, 0, 20, 0, 0, 0, 0, 0, 4, 10, 11, 16, 10, 0, 0, 3, 0, 6, 4, 14, 5, 29, 0, 0, 0, 0, 7, 0, 4, 0, 0, 0, 0, 0, 3, 13, 12, 0, 10, 0];
