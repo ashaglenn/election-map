@@ -5,18 +5,6 @@
   text-align: left;
   background-color: #eee;
 }
-#ph a {
-  color: black;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-size: 18px;
-  padding: 0 10px;
-  display: inline-block;
-}
-#ph h3{
-  text-align: center;
-}
 
 body {
   font: 16px/26px 'Open Sans', Helvetica, Arial, sans-serif;
@@ -53,7 +41,7 @@ header {
 }
 #stateResults, #countryResults {
   border-collapse: collapse;
-  background-color: #f2f2f2;
+  background-color: #454545;
   -webkit-box-shadow: 1px 1px 1px 1px rgba(204,204,204,0.5);
   -moz-box-shadow: 1px 1px 1px 1px rgba(204,204,204,0.5);
   box-shadow: 1px 1px 1px 1px rgba(204,204,204,0.5);
@@ -68,11 +56,11 @@ th, td {
   color: white;
 }
 #countryResults th {
-  background-color: #f16059;
+  background-color: black;
   color: white;
 }
 .name-1 {
-  background-color: rgb(132,17,11);
+  background-color: rgb(76, 155, 181);
   color: white;
 }
 .name-2 {
@@ -80,7 +68,7 @@ th, td {
   color: white;
 }
 .winner {
-  background-color: #f16059;
+  background-color: black;
   color: white;
 }
 
